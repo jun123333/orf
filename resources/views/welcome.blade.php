@@ -47,12 +47,14 @@
             <div class="collapse navbar-collapse" id="wexim">
                 <div class="navbar-nav ms-auto">
                         <a class="nav-link scroll" href="#home">홈</a>
-                        <a class="nav-link scroll" href="#about">설립목적</a>
+                        <a class="nav-link scroll" href="#about">설립 목적</a>
                         <a class="nav-link scroll" href="#struct">조직도</a>
-                        <a class="nav-link scroll" href="#portfolio">인사말</a>
-                        <a class="nav-link scroll" href="#work">주요활동</a>
+                        <a class="nav-link scroll" href="#history">연혁</a>
+                        <a class="nav-link scroll" href="#mwork">주요 활동</a>
+                        <a class="nav-link scroll" href="#work">활동 내역</a>
+                        <a class="nav-link scroll" href="#news">최근 뉴스</a>
+                        <a class="nav-link scroll" href="#contact">오시는 길</a>
                         <a class="nav-link scroll" href="#incorporation">정관</a>
-                        <a class="nav-link scroll" href="#contact">주소</a>
                     <span class="menu-line"><i class="fa fa-angle-down" aria-hidden="true"></i></span>
                 </div>
             </div>
@@ -83,16 +85,22 @@
                         <a class="nav-link scroll" href="#struct">조직도</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#portfolio">활동내역</a>
+                        <a class="nav-link scroll" href="#history">연혁</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#work">주요활동</a>
+                        <a class="nav-link scroll" href="#mwork">주요 활동</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link scroll" href="#work">활동 내역</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link scroll" href="#news">뉴스</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link scroll" href="#contact">오시는 길</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#incorporation">정관</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link scroll" href="#contact">주소</a>
                     </li>
                 </ul>
             </nav>
@@ -210,7 +218,7 @@
                     <span class="item-number gradient-text1">
                         01.
                     </span>
-                    <h6 class="mb-4">지역사회 2</h6>
+                    <h6 class="mb-4">설립 목적 1</h6>
                     <p> 오산지역의 올바른 지역발전과 주민자치 실현을 위한 조사, 각종제도 함께 만들어 갑니다. </p>
                 </div>
             </div>
@@ -219,7 +227,7 @@
                     <span class="item-number gradient-text1">
                         02.
                     </span>
-                    <h6 class="mb-4">지역사회 2</h6>
+                    <h6 class="mb-4">설립 목적 2</h6>
                     <p>정책에 대한 연구와 교육, 문화행사 서비스를
 하며 오산지역의 건전한 시민사회의 형성을 통해 시민삶의 질을
 향상 시키며 지속가능한 오산발전에 기여하는 것을 목적으로 합니다.</p>
@@ -230,7 +238,7 @@
                     <span class="item-number gradient-text1">
                         03.
                     </span>
-                    <h6 class="mb-4">지역사회 3</h6>
+                    <h6 class="mb-4">설립 목적 3</h6>
                     <p>위 목표를 가지고 많은 분들과 소통하며 여러가지 사업을 통해서
 오산의 발전에 기여 할 수 포럼을 만들어 가겠습니다.</p>
                 </div>
@@ -266,8 +274,94 @@
     </div>
 </section>
 
+<!--about start-->
+<section id="history" class="p-0">
+    <div class="container-fluid">
+    <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+            <div class="feature-skill-box">
+                <div class="title">
+                    <h6 class="third-color mb-3"></h6>
+                    <h2 class="mb-3">오산 르네상스 포럼 연혁</h2>
+                    <p>오산 지역의 올바른 지역발전과 주민자치 실현을 위한 조사 각종 제도 및 정책에 대한 조사영구와 교육 및 문화행사 서비스를 하며, 오산 지역의 건전한 시민 사회의 형성을 통해 시민의 삶의 질을 향상 및 지속 가능한 발전에 기역하는 것을 목적으로 함</p>
+                </div>
+                <!--Team Progress-->
+                <ul class="feature-skill team-progress text-start">
+                    <!--Progress Item-->
+                    <li class="progress-item">
+                        <h6>오산르네상스포럼 이사회 정기 총회 <span class="float-end"><b class="count">2020</b>.02.15</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                    <!--Progress Item-->
+                    <li class="progress-item">
+                        <h6>오산르네상스포럼 1차 준비 모임 <span class="float-end"><b class="count">2020</b>.03.11</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                    <!--Progress Item-->
+                     <li class="progress-item">
+                        <h6>오산르네상스포럼 2차 준비 모임 <span class="float-end"><b class="count">2020</b>.04.08</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                     <li class="progress-item">
+                        <h6>오산르네상스포럼 3차 준비 모임 <span class="float-end"><b class="count">2020</b>.05.07</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                     <li class="progress-item">
+                        <h6>고유번호증 발급 <span class="float-end"><b class="count">2020</b>.05.07</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                    <li class="progress-item">
+                        <h6>오산르네상스포럼 4차 준비 모임 <span class="float-end"><b class="count">2020</b>.05.22</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                    </li>
+                     <li class="progress-item">
+                        <h6>오산르네상스포럼 창립총회 <span class="float-end"><b class="count">2020</b>.06.20</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                     <li class="progress-item">
+                        <h6>오산르네상스포럼 창립기념 재즈페스티벌 <span class="float-end"><b class="count">2020</b>.10.31</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                     <li class="progress-item">
+                        <h6>제1차 오산르네상스포럼 정기총회 <span class="float-end"><b class="count">2021</b>.04.16</span></h6>
+                        <div class="progress">
+                            <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
+                        </div>
+                    </li>
+                </ul>
+
+                <!--button-->
+                <a href="#work" class="btn btn-large btn-transparent-black mt-5">주요활동</a>
+            </div>
+        </div>
+        <div class="col-lg-6 p-0">
+            <!--Feature Image Half-->
+            <img src="images/about-half-block.jpg" class="feature-half" width="100% !important;" alt="image">
+        </div>
+    </div>
+    </div>
+</section>
+<!--about end-->
+
 <!--Team Start-->
-<section id="work" class="bg-light">
+<section id="mwork" class="bg-light">
     <div class="container">
         <!--Heading-->
         <div class="row wow fadeIn">
@@ -406,7 +500,7 @@
 <!--Team Start-->
 
 <!--Portfolio Start-->
-<section id="portfolio" class="cube-portfolio1">
+<section id="work" class="cube-portfolio1">
     <div class="container">
         <!--About-->
         <div class="row align-items-center">
@@ -523,6 +617,36 @@
                     </div>
                 </a>
             </div>
+                        <div class="cbp-item web-design seo">
+                <a href="images/15.jpg" class="cbp-caption cbp-lightbox">
+                    <div class="cbp-caption-defaultWrap">
+                        <img src="images/15.jpg" alt="port-7">
+                    </div>
+                    <div class="cbp-caption-activeWrap"></div>
+                    <div class="cbp-l-caption-alignCenter center-block">
+                        {{-- <div class="cbp-l-caption-body">
+                            <div class="plus"></div>
+                            <h5 class="text-white mb-1">Latest Work</h5>
+                            <p class="text-white">See Our Amazing Work</p>
+                        </div> --}}
+                    </div>
+                </a>
+            </div>
+                        <div class="cbp-item web-design seo">
+                <a href="images/20.jpg" class="cbp-caption cbp-lightbox">
+                    <div class="cbp-caption-defaultWrap">
+                        <img src="images/20.jpg" alt="port-7">
+                    </div>
+                    <div class="cbp-caption-activeWrap"></div>
+                    <div class="cbp-l-caption-alignCenter center-block">
+                        {{-- <div class="cbp-l-caption-body">
+                            <div class="plus"></div>
+                            <h5 class="text-white mb-1">Latest Work</h5>
+                            <p class="text-white">See Our Amazing Work</p>
+                        </div> --}}
+                    </div>
+                </a>
+            </div>
            
 
         </div>
@@ -538,7 +662,7 @@
 
 
 <!--Blog Start-->
-<section id="blog" class="bg-light">
+<section id="news" class="bg-light">
     <div class="container">
 
         <div class="row align-items-center mb-5">
@@ -597,7 +721,7 @@
             <div class="col-md-6">
                 <!--Blog Image-->
                 <div class="blog-image text-end hover-effect wow fadeInRight">
-                    <img src="images/blog-image2.jpg" alt="image">
+                    <img src="images/about-half-block.jpg" alt="image">
                 </div>
             </div>
         </div>
@@ -609,7 +733,7 @@
 
 
 <!--address start-->
-<section class="pb-0">
+<section id="contact" class="pb-0">
     <div class="container">
 
         <!--Heading-->
@@ -650,7 +774,7 @@
 
 
 <!--slider-->
-<section id="home" class="p-0 single-slide dark-slider">
+<section  class="p-0 single-slide dark-slider">
     <h2 class="d-none">hidden</h2>
     <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="wexim_slider_01" data-source="gallery" style="background:transparent;padding:0px;">
         <!-- START REVOLUTION SLIDER 5.4.8.1 fullscreen mode -->
