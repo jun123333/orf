@@ -577,7 +577,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="address-block">
-                    <h6 class="mb-3 third-color">Lorem ipsum dolor sit amet</h6>
+                    <h6 class="mb-3 third-color"></h6>
                     <h3><span class="gradient-text1">오산</span> 르네상스포럼</h3>
                     <ul class="address-list">
                         <li>경기도 오산시 대원로 65 운암프라자1차, 4층</li>
@@ -670,14 +670,14 @@
     <script>
         var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
     mapOption = { 
-        center: new kakao.maps.LatLng(37.14798521493138, 127.07601138419791), // 지도의 중심좌표
+        center: new kakao.maps.LatLng(37.14671942119277, 127.07587232679354), // 지도의 중심좌표
         level: 3 // 지도의 확대 레벨
     };
 
 var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
 
 // 마커가 표시될 위치입니다 
-var markerPosition  = new kakao.maps.LatLng(37.14798521493138, 127.07601138419791); 
+var markerPosition  = new kakao.maps.LatLng(37.14671942119277, 127.07587232679354); 
 
 // 마커를 생성합니다
 var marker = new kakao.maps.Marker({
