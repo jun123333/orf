@@ -410,11 +410,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
 
                 </a>
@@ -426,11 +426,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </a>
             </div>
@@ -441,11 +441,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </a>
             </div>
@@ -456,11 +456,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </a>
             </div>
@@ -471,11 +471,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </a>
             </div>
@@ -486,11 +486,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </a>
             </div>
@@ -501,11 +501,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </a>
             </div>
@@ -516,11 +516,11 @@
                     </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <div class="cbp-l-caption-alignCenter center-block">
-                        <div class="cbp-l-caption-body">
+                        {{-- <div class="cbp-l-caption-body">
                             <div class="plus"></div>
                             <h5 class="text-white mb-1">Latest Work</h5>
                             <p class="text-white">See Our Amazing Work</p>
-                        </div>
+                        </div> --}}
                     </div>
                 </a>
             </div>
@@ -610,6 +610,12 @@
             </div>
         
         </div>
+
+        <div class="col-md-6 p-0">
+                <div id="map" class="half-map bg-img-map">
+
+                </div>
+            </div>  
     </div>
 </section>
 <!--Address End-->
@@ -682,6 +688,19 @@
 <!--Scroll Top-->
 <a class="scroll-top-arrow" href="javascript:void(0);"><i class="fa fa-angle-up"></i></a>
 <!--Scroll Top End-->
+
+
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=740780b79f4ad447ffac1be97be00546"></script>
+    <script>
+        var container = document.getElementById('map');
+        var options = {
+            center: new kakao.maps.LatLng(33.450701, 126.570667),
+            level: 3
+        };
+
+        var map = new kakao.maps.Map(container, options);
+    </script>
+
 
 <!-- Optional JavaScript -->
 <script src="js/jquery-3.3.1.min.js"></script>
