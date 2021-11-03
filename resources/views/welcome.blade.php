@@ -192,7 +192,7 @@
             <div class="col-md-6">
                 <div class="title">
                         <h6 class="third-color mb-3"></h6>
-                        <h2>우리는 지역사회의 일을 합니다.</h2>
+                        <h2>오산 르네상스 포럼 - 우리는 지역사회의 일을 합니다.</h2>
                 </div>
             </div>
             <div class="col-md-6 mb-4">
@@ -210,8 +210,8 @@
                     <span class="item-number gradient-text1">
                         01.
                     </span>
-                    <h6 class="mb-4">지역사회 1</h6>
-                    <p> 오산지역의 올바른 지역발전과 주민자치 실현을 위한 조사 각종제도 함께 만들어 갑니다. </p>
+                    <h6 class="mb-4">지역사회 2</h6>
+                    <p> 오산지역의 올바른 지역발전과 주민자치 실현을 위한 조사, 각종제도 함께 만들어 갑니다. </p>
                 </div>
             </div>
             <div class="col-md-4 wow fadeInUp">
@@ -538,23 +538,39 @@
 
 
 <!--Blog Start-->
-{{-- <section id="blog" class="bg-light">
+<section id="blog" class="bg-light">
     <div class="container">
 
         <div class="row align-items-center mb-5">
             <div class="col-md-6 order-md-2 wow fadeInRight">
                 <!--Blog Content-->
                 <div class="blog-text">
-                    <h6 class="third-color mb-3">January 14, 2019</h6>
-                    <h2>Living Your Dreams</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodt temp to the incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis a nostr a exercitation ullamco laboris nisi ut aliquip.</p>
-                    <a href="blog-left.html" class="btn btn-large btn-gradient btn-rounded mt-4">Learn More</a>
+                    <h6 class="third-color mb-3">2020.11.01</h6>
+                    <h2>재즈 페스티벌</h2>
+                    <p>오산르네상스 포럼이 지난 10월 31일 오산천 연꽃연못에서 관내 시민들을 비롯해 청소년 참여하는 ‘제1회 재즈 페스티벌’을 개최했다.
+
+ 
+ <br /> <br />
+
+재즈 페스티벌은 오산르네상스 포럼의 청년 위원들이 준비한 공연으로, 코로나19로 인해 힘든 시기에 오산 시민들에게 조금이나마 힐링의 시간을 주고자 마련된 공연이다.
+<br />
+ <br /> 
+
+특히 오산 시민들이 다른 지역이 아닌 오산에서 퀄리티가 높은 페스티벌을 보고자 하는 바람이 있어 이를 이뤄주기 위해 기획됐다고 포럼 관계자는 설명했다.
+<br />
+ <br />
+
+이번 공연은 가을 막바지 오산천의 가을과 잘 어울리는 재즈공연을 펼쳐 시민들과 청소년들에게 큰 호응을 얻었다.
+
+<br />
+<br /></p>
+                    <a href="https://www.kgnews.co.kr/news/article.html?no=610491" class="btn btn-large btn-gradient btn-rounded mt-4">더 알아보기</a>
                 </div>
             </div>
             <div class="col-md-6">
                 <!--Blog Image-->
                 <div class="blog-image wow hover-effect fadeInLeft">
-                    <img src="images/blog-image1.jpg" alt="image">
+                    <img src="images/jazz.jpg" alt="image">
                 </div>
             </div>
         </div>
@@ -563,10 +579,19 @@
             <div class="col-md-6 wow fadeInLeft">
                 <!--Blog Content-->
                 <div class="blog-text">
-                    <h6 class="third-color mb-3">August 20, 2019</h6>
-                    <h2>Design Your Website</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodt temp to the incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis a nostr a exercitation ullamco laboris nisi ut aliquip.</p>
-                    <a href="blog-right.html" class="btn btn-large btn-gradient btn-rounded mt-4">Learn More</a>
+                    <h6 class="third-color mb-3">2021/04/18</h6>
+                    <h2>오산르네상스 포럼 정기 총회</h2>
+                    <p>오산르네상스포럼(대표 문영근)은 지난 16일 저녁 7시 오산시자원봉사센타에서 임원 및 운영위원 등 약 40여 명이 참석한 가운데 제1차 정기총회를 개최하고 이순열 현 민주평화통일자문위원회 오산시협의회 자문위원을 공동대표로 선출했다.
+<br /><br />
+ 
+
+이날 행사장에는 모든 참석자에 대한 체온체크 및 방명록 작성 등 전원 마스크 착용을 원칙으로 코로나19 방역 수칙 및 사회적 거리두기를 지키며 최소 인원이 참석했다.
+<br /><br />
+ 
+
+먼저 오산르네상스포럼 문영근 대표는 인사말에서 “세월호 7주기가 되었다. 우리들은 그날의 아픈 마음을 공감하고 있다. 세월호 침몰에 대한 진상규명으로 유가족들의 서러움을 풀어야할 것”이라고 말했고 참석자 모두 묵념 했다.
+출처: 오산르네상스포럼 제1차 정기총회 개최 - 오산인포커스 - http://www.osanin4.com/2942</p>
+                    <a href="http://www.osanin4.com/2942" class="btn btn-large btn-gradient btn-rounded mt-4">더 알아보기</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -578,7 +603,7 @@
         </div>
 
     </div>
-</section> --}}
+</section>
 <!--Blog End-->
 
 
