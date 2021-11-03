@@ -552,44 +552,50 @@
 </section> --}}
 <!--Blog End-->
 
-<!--Address Start-->
-<section id="contact" class="p-0">
-    <div class="container-fluid">
-        <div class="row align-items-center">
-            <div class="col-md-6 p-0">
-                <div class="address-box title mb-0 bg-img4">
-                    <!--overlay-->
-                    <div class="bg-overlay gradient-bg1 opacity-8"></div>
-                    <div class="address-text text-center text-white position-relative wow fadeInUp">
-                        {{-- <h6 class="mb-3">Lorem ipsum dolor sit amet consectetur</h6> --}}
-                        <!--title-->
-                        <h2 class="mb-4">오산르네상스포럼</h2>
-                        <!--Address-->
-                        <p class="mb-3 text-white">경기도 오산시 대원로 65 운암프라자1차, 4층 </p>
-            
-                        <div class="address-social">
-                            <ul class="list-unstyled">
-                                <li><a class="facebook-text-hvr" href="javascript:void(0);"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a class="twitter-text-hvr" href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a class="google-text-hvr" href="javascript:void(0);"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                <li><a class="linkedin-text-hvr" href="javascript:void(0);"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                <li><a class="instagram-text-hvr" href="javascript:void(0);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
+
+
+<!--address start-->
+<section class="pb-0">
+    <div class="container">
+
+        <!--Heading-->
+      {{--   <div class="row wow fadeIn">
+            <div class="col-md-12 text-center">
+                <div class="title d-inline-block">
+                    <h6 class="mb-3">Have A Question ?!!</h6>
+                    <h2 class="gradient-text1 mb-3">Lets Get In Touch</h2>
+                    <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus. </p>
                 </div>
             </div>
-        
+        </div> --}}
 
-        <div class="col-md-6 p-0">
-                <div id="map" class="half-map bg-img-map">
-
+        <div class="row">
+            <div class="col-lg-7">
+                <!--Map-->
+                <div id="map" class="contact-map bg-img-map">
                 </div>
-            </div>  
+            </div>
+            <div class="col-lg-5">
+                <div class="address-block">
+                    <h6 class="mb-3 third-color">Lorem ipsum dolor sit amet</h6>
+                    <h3><span class="gradient-text1">오산</span> 르네상스포럼</h3>
+                    <ul class="address-list">
+                        <li>경기도 오산시 대원로 65 운암프라자1차, 4층</li>
+        
+                    </ul>
+                   
+            </div>
+            </div>
         </div>
+
     </div>
 </section>
-<!--Address End-->
+<!--adress end-->
+
+
+
+
+
 
 <!--page content-->
 <section id="incorporation" class="page-content">
