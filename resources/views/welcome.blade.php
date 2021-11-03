@@ -621,28 +621,28 @@
             <div class="col-sm-12">
             <div class="blog-detail-item row">
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/1.JPG" alt="image">
+                    <img src="images/1.JPG" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/2.JPG" alt="image">
+                    <img src="images/2.JPG" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/3.JPG" alt="image">
+                    <img src="images/3.JPG" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/4.JPG" alt="image">
+                    <img src="images/4.JPG" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/5.JPG" alt="image">
+                    <img src="images/5.JPG" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/6.JPG" alt="image">
+                    <img src="images/6.JPG" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/7.JPG" alt="image">
+                    <img src="images/7.JPG" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/8.JPG" alt="image">
+                    <img src="images/8.JPG" width="100%" alt="image">
                 </div>
             </div>
         </div>
