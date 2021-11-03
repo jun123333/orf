@@ -128,7 +128,7 @@
                     <!-- LAYERS -->
 
                     <!-- Overlay -->
-                    <div class="gradient-bg1 bg-overlay opacity-8 z-index-1"></div>
+                    <div class="bg-overlay opacity-8 z-index-1"></div>
 
                     <div class="rs-background-video-layer"
                          data-forcerewind="on"
@@ -608,11 +608,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 p-0">
-                <div id="map" class="half-map bg-img-map">
-
-                </div>
-            </div>
+        
         </div>
     </div>
 </section>
