@@ -509,21 +509,7 @@
                     </div>
                 </a>
             </div>
-            <div class="cbp-item web-design graphic">
-                <a href="images/work-8.jpg" class="cbp-caption cbp-lightbox">
-                    <div class="cbp-caption-defaultWrap">
-                        <img src="images/work-8.jpg" alt="port-8">
-                    </div>
-                    <div class="cbp-caption-activeWrap"></div>
-                    <div class="cbp-l-caption-alignCenter center-block">
-                        {{-- <div class="cbp-l-caption-body">
-                            <div class="plus"></div>
-                            <h5 class="text-white mb-1">Latest Work</h5>
-                            <p class="text-white">See Our Amazing Work</p>
-                        </div> --}}
-                    </div>
-                </a>
-            </div>
+           
 
         </div>
         
