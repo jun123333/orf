@@ -253,7 +253,7 @@
 <!--About End-->
 
 
-       <section class="struct">
+       <section id="struct">
     <div class="container">
         <div class="row">
 
