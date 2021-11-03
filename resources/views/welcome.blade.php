@@ -609,13 +609,13 @@
                 </div>
             </div>
         
-        </div>
 
         <div class="col-md-6 p-0">
                 <div id="map" class="half-map bg-img-map">
 
                 </div>
             </div>  
+        </div>
     </div>
 </section>
 <!--Address End-->
