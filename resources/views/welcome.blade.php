@@ -590,7 +590,7 @@
  
 
 먼저 오산르네상스포럼 문영근 대표는 인사말에서 “세월호 7주기가 되었다. 우리들은 그날의 아픈 마음을 공감하고 있다. 세월호 침몰에 대한 진상규명으로 유가족들의 서러움을 풀어야할 것”이라고 말했고 참석자 모두 묵념 했다.
-출처: 오산르네상스포럼 제1차 정기총회 개최 - 오산인포커스 - http://www.osanin4.com/2942</p>
+</p>
                     <a href="http://www.osanin4.com/2942" class="btn btn-large btn-gradient btn-rounded mt-4">더 알아보기</a>
                 </div>
             </div>
@@ -645,6 +645,94 @@
     </div>
 </section>
 <!--adress end-->
+
+
+
+
+<!--slider-->
+<section id="home" class="p-0 single-slide dark-slider">
+    <h2 class="d-none">hidden</h2>
+    <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="wexim_slider_01" data-source="gallery" style="background:transparent;padding:0px;">
+        <!-- START REVOLUTION SLIDER 5.4.8.1 fullscreen mode -->
+        <div id="rev_single" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.8.1">
+            <ul>
+                <!-- SLIDE  -->
+                <li data-index="rs-3" data-transition="crossfade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="images/slide-img2.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+
+                    <!-- MAIN IMAGE -->
+                    <img src="video/thumb.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+
+                    <!-- Overlay -->
+                    <div class="bg-black bg-overlay opacity-4 z-index-1"></div>
+
+                    <div class="rs-background-video-layer"
+                         data-forcerewind="on"
+                         data-volume="mute"
+                         data-videowidth="100%"
+                         data-videoheight="100vh"
+                         data-videomp4="video/video.mp4"
+                         data-videopreload="auto"
+                         data-videoloop="loopandnoslidestop"
+                         data-forceCover="1"
+                         data-aspectratio="16:9"
+                         data-autoplay="true"
+                         data-autoplayonlyfirsttime="false"></div>
+
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-120','-80','-80','-80']"
+                         data-whitespace="nowrap" data-responsive_offset="on"
+                         data-width="['none','none','none','none']" data-type="text"
+                         data-textalign="['center','center','center','center']"
+                         data-transform_idle="o:1;"
+                         data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;"
+                         data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
+                         data-start="1000" data-splitin="none" data-splitout="none">
+                        <h2 class="text-white">2021 05 22 토요일</h2>
+                    </div>
+
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-30','0','0','0']"
+                         data-whitespace="nowrap" data-responsive_offset="on"
+                         data-width="['none','none','none','none']" data-type="text"
+                         data-textalign="['center','center','center','center']"
+                         data-transform_idle="o:1;"
+                         data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                         data-transform_out="s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                         data-start="1000" data-splitin="none" data-splitout="none">
+                        <h2 class="font-weight-600 text-white">제 2 오산르네상스</h2>
+                    </div>
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['50','75','75','75']"
+                         data-whitespace="nowrap" data-responsive_offset="on"
+                         data-width="['none','none','none','none']" data-type="text"
+                         data-textalign="['center','center','center','center']" data-fontsize="['24','24','20','20']"
+                         data-transform_idle="o:1;"
+                         data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;s:1000;e:Power2.easeOut;"
+                         data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
+                         data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                         data-start="1500" data-splitin="none" data-splitout="none">
+                        <p class="text-white">재즈 페스티벌</p>
+                    </div>
+
+
+
+                    <!--<div class="col-xs-12 position-relative video-text text-center center-col z-index-2 alt-font">-->
+                        <!--<h2 class="font-weight-600 text-white mb-2">Creativity Takes<br>Courage</h2>-->
+                        <!--<p class="font-weight-light text-white mb-4">One Page Parallax</p>-->
+                    <!--</div>-->
+
+                </li>
+
+
+            </ul>
+    </div><!-- END REVOLUTION SLIDER -->
+    </div>
+</section>
+<!--slider end-->
 
 
 
