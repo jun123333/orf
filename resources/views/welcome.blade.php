@@ -902,12 +902,24 @@
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
                     <img src="images/7.png" width="100%" alt="image">
                 </div>
-               <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                   <a href="images/1.pdf" class="btn btn-large btn-transparent-black mt-5">정관 다운로드</a>
-                </div>
+               
+                   
+                
 
             </div>
         </div>
+        </div>
+
+        <!--Heading-->
+        <div class="row wow fadeIn">
+            <div class="col-md-12 text-center">
+                <div class="title d-inline-block">
+                    <a href="images/1.pdf" class="btn btn-large btn-transparent-black mt-5">정관 다운로드</a>
+                    
+                    <h2 class="gradient-text1 mb-3">주요활동</h2>
+                    <p> </p>
+                </div>
+            </div>
         </div>
     </div>
 </section>
