@@ -301,27 +301,27 @@
                 <ul class="feature-skill team-progress text-start">
                     <!--Progress Item-->
                     <li class="progress-item">
-                        <h6>오산르네상스포럼 이사회 정기 총회 <span class="float-end"><b class="count">2020</b>.02.15</span></h6>
+                        <h6>이사회 정기 총회 <span class="float-end"><b class="count">2020</b>.02.15</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
                     </li>
                     <!--Progress Item-->
                     <li class="progress-item">
-                        <h6>오산르네상스포럼 1차 준비 모임 <span class="float-end"><b class="count">2020</b>.03.11</span></h6>
+                        <h6>1차 준비 모임 <span class="float-end"><b class="count">2020</b>.03.11</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
                     </li>
                     <!--Progress Item-->
                      <li class="progress-item">
-                        <h6>오산르네상스포럼 2차 준비 모임 <span class="float-end"><b class="count">2020</b>.04.08</span></h6>
+                        <h6>2차 준비 모임 <span class="float-end"><b class="count">2020</b>.04.08</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
                     </li>
                      <li class="progress-item">
-                        <h6>오산르네상스포럼 3차 준비 모임 <span class="float-end"><b class="count">2020</b>.05.07</span></h6>
+                        <h6>3차 준비 모임 <span class="float-end"><b class="count">2020</b>.05.07</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
@@ -333,26 +333,26 @@
                         </div>
                     </li>
                     <li class="progress-item">
-                        <h6>오산르네상스포럼 4차 준비 모임 <span class="float-end"><b class="count">2020</b>.05.22</span></h6>
+                        <h6>4차 준비 모임 <span class="float-end"><b class="count">2020</b>.05.22</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
                     </li>
                     </li>
                      <li class="progress-item">
-                        <h6>오산르네상스포럼 창립총회 <span class="float-end"><b class="count">2020</b>.06.20</span></h6>
+                        <h6>창립총회 <span class="float-end"><b class="count">2020</b>.06.20</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
                     </li>
                      <li class="progress-item">
-                        <h6>오산르네상스포럼 창립기념 재즈페스티벌 <span class="float-end"><b class="count">2020</b>.10.31</span></h6>
+                        <h6>창립기념 재즈페스티벌 <span class="float-end"><b class="count">2020</b>.10.31</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
                     </li>
                      <li class="progress-item">
-                        <h6>제1차 오산르네상스포럼 정기총회 <span class="float-end"><b class="count">2021</b>.04.16</span></h6>
+                        <h6>제1차 정기총회 <span class="float-end"><b class="count">2021</b>.04.16</span></h6>
                         <div class="progress">
                             <span class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></span>
                         </div>
@@ -903,8 +903,9 @@
                     <img src="images/7.png" width="100%" alt="image">
                 </div>
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/8.png" width="100%" alt="image">
+                    <img src="images/1.pdf" width="100%" alt="image">
                 </div>
+
             </div>
         </div>
         </div>
