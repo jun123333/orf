@@ -73,7 +73,7 @@ body{
     General
 ====================================== */
 
-body {font-family: 'BMJUA', sans-serif; font-size: 20px !important;color: #2b2b2b;font-weight:300;line-height: 26px;letter-spacing: 0.5px;overflow-x: hidden;-webkit-font-smoothing: antialiased;}
+body {font-family: 'BMJUA', sans-serif; font-size: 19px !important;color: #2b2b2b;font-weight:300;line-height: 26px;letter-spacing: 0.5px;overflow-x: hidden;-webkit-font-smoothing: antialiased;}
 p{margin-bottom: 0;color: #6d6d6d;}
 a {color:inherit;}
 br{line-height: 15px}
