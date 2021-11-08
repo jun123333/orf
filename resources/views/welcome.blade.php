@@ -166,7 +166,7 @@
                          data-paddingbottom="[0,0,0,0]"
                          data-paddingleft="[0,0,0,0]"
 
-                         style="z-index: 7; white-space: nowrap; font-size: 25px; line-height: 20px; font-weight: 300; color: #222; letter-spacing: 0px;font-family:'BMJUA';">오산르네상스포럼에 오신 것을 </div>
+                         style="z-index: 7; white-space: nowrap; font-size: 25px; line-height: 20px; font-weight: 300; color: #fff; letter-spacing: 0px;font-family:'BMJUA';">오산르네상스포럼에 오신 것을 </div>
 
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption   tp-resizeme"
@@ -189,7 +189,7 @@
                          data-paddingbottom="[0,0,0,0]"
                          data-paddingleft="[0,0,0,0]"
 
-                         style="z-index: 8; white-space: nowrap;font-weight: 600; color: #222; letter-spacing: 0px;font-family:'BMJUA';"> <div class="text-center" id="js-rotating">환영합니다.</div>
+                         style="z-index: 8; white-space: nowrap;font-weight: 600; color: #fff; letter-spacing: 0px;font-family:'BMJUA';"> <div class="text-center" id="js-rotating">환영합니다.</div>
                     </div>
 
                   
