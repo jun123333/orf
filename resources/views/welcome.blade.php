@@ -916,8 +916,7 @@
                 <div class="title d-inline-block">
                     <a href="images/1.pdf" class="btn btn-large btn-transparent-black mt-5">정관 다운로드</a>
                     
-                    <h2 class="gradient-text1 mb-3">주요활동</h2>
-                    <p> </p>
+                    
                 </div>
             </div>
         </div>
