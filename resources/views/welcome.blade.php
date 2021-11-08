@@ -360,7 +360,7 @@
                 </ul>
 
                 <!--button-->
-                <a href="#work" class="btn btn-large btn-transparent-black mt-5">주요활동</a>
+                
             </div>
         </div>
         <div class="col-lg-6 p-0">
@@ -786,7 +786,7 @@
 
 
 <!--slider-->
-<section  class="p-0 single-slide dark-slider">
+<section  class="p-0 single-slide dark-slider" style="margin-top:100px;">
     <h2 class="d-none">hidden</h2>
     <div id="rev_single_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="wexim_slider_01" data-source="gallery" style="background:transparent;padding:0px;">
         <!-- START REVOLUTION SLIDER 5.4.8.1 fullscreen mode -->
@@ -902,8 +902,10 @@
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
                     <img src="images/7.png" width="100%" alt="image">
                 </div>
-               
-                <a href="images/1.pdf" class="btn btn-large btn-transparent-black mt-5">정관 다운로드</a>
+               <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
+                   <a href="images/1.pdf" class="btn btn-large btn-transparent-black mt-5">정관 다운로드</a>
+                </div>
+
             </div>
         </div>
         </div>
