@@ -47,6 +47,7 @@
             <div class="collapse navbar-collapse" id="wexim">
                 <div class="navbar-nav ms-auto">
                         <a class="nav-link scroll" href="#home">홈</a>
+                        <a class="nav-link scroll" href="#home">인사말</a>
                         <a class="nav-link scroll" href="#about">설립 목적</a>
                         <a class="nav-link scroll" href="#struct">조직도</a>
                         <a class="nav-link scroll" href="#history">연혁</a>
@@ -77,6 +78,9 @@
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#home">홈</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link scroll" href="#home">인사말</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#about">설립목적</a>
@@ -138,7 +142,7 @@
                          id="slide-94-layer-3"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-81','-81','-64','-48']"
-                         data-fontsize="['25','25','18','14']"
+                         data-fontsize="['55','55','55','55']"
                          data-lineheight="['20','20','18','14']"
                          data-width="none"
                          data-height="none"
