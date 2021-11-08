@@ -902,10 +902,8 @@
                 <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
                     <img src="images/7.png" width="100%" alt="image">
                 </div>
-                <div class="blog-detail-img col-sm-12 mb-5 hover-effect">
-                    <img src="images/1.pdf" width="100%" alt="image">
-                </div>
-
+               
+                <a href="images/1.pdf" class="btn btn-large btn-transparent-black mt-5">정관 다운로드</a>
             </div>
         </div>
         </div>
