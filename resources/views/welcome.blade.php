@@ -142,7 +142,7 @@
                          id="slide-94-layer-3"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-81','-81','-64','-48']"
-                         data-fontsize="['55','55','55','55']"
+                         data-fontsize="['55','55','35','35']"
                          data-lineheight="['20','20','18','14']"
                          data-width="none"
                          data-height="none"
@@ -158,7 +158,7 @@
                          data-paddingbottom="[0,0,0,0]"
                          data-paddingleft="[0,0,0,0]"
 
-                         style="z-index: 7; white-space: nowrap; font-size: 25px; line-height: 20px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:'BMJUA';">오산르네상스포럼. </div>
+                         style="z-index: 7; white-space: nowrap; font-size: 25px; line-height: 20px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:'BMJUA';">오산르네상스포럼에 오신 것을 </div>
 
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption   tp-resizeme"
