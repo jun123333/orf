@@ -55,15 +55,15 @@
             <div class="collapse navbar-collapse" id="wexim">
                 <div class="navbar-nav ms-auto">
                         <a class="nav-link scroll" href="#home">홈</a>
-                        <a class="nav-link scroll" href="#intro">인사말</a>
+                        <a class="nav-link scroll" href="#about">포럼 인사말</a>
                         <a class="nav-link scroll" href="#about">설립 목적</a>
-                        <a class="nav-link scroll" href="#struct">조직도</a>
-                        <a class="nav-link scroll" href="#history">연혁</a>
+                        <a class="nav-link scroll" href="#struct">포럼 조직도</a>
+                        <a class="nav-link scroll" href="#history">포럼 연혁</a>
                         <a class="nav-link scroll" href="#mwork">주요 활동</a>
                         <a class="nav-link scroll" href="#work">활동 내역</a>
-                        <a class="nav-link scroll" href="#news">최근 뉴스</a>
+                        <a class="nav-link scroll" href="#news">보도 자료</a>
                         <a class="nav-link scroll" href="#contact">오시는 길</a>
-                        <a class="nav-link scroll" href="#incorporation">정관</a>
+                        <a class="nav-link scroll" href="#incorporation">포럼 정관</a>
                     <span class="menu-line"><i class="fa fa-angle-down" aria-hidden="true"></i></span>
                 </div>
             </div>
@@ -88,16 +88,16 @@
                         <a class="nav-link scroll" href="#home">홈</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#intro">인사말</a>
+                        <a class="nav-link scroll" href="#about">포럼 인사말</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#about">설립목적</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#struct">조직도</a>
+                        <a class="nav-link scroll" href="#struct">포럼 조직도</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#history">연혁</a>
+                        <a class="nav-link scroll" href="#history">포럼 연혁</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#mwork">주요 활동</a>
@@ -106,13 +106,13 @@
                         <a class="nav-link scroll" href="#work">활동 내역</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#news">뉴스</a>
+                        <a class="nav-link scroll" href="#news">보도 자료</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#contact">오시는 길</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#incorporation">정관</a>
+                        <a class="nav-link scroll" href="#incorporation">포럼 정관</a>
                     </li>
                 </ul>
             </nav>
@@ -207,6 +207,23 @@
 <!--About Start-->
 <section id="about">
     <div class="container">
+
+        <!--Heading-->
+        <div class="row wow fadeIn">
+            <div class="col-md-12 text-center">
+                <div class="title d-inline-block">
+                    <h6 class="mb-3"></h6>
+                    <h2 class="gradient-text1 mb-3">인사말</h2>
+                    <p> 인생이란 바로 곁에 있는 소중한 사람들과 함께 더불어 살아가는 아름다운 동행이라는 뜻입니다. 주변 사람들과 함께 걷기도 하고, 지칠 때는 서로를 위로하고 응원하며 함께 걷기도 하고 지칠 때는 서로를 위로 하고 응원하며 또 힘을 내어 달리기도 하지요. 결국 완주하는 마라톤과 같은 것이 우리의 인생이라고 생각합니다.<br />
+                    오산르네상스 포럼과 오산의 발전을 위한 올바른 정책을 제안하고, 건전한 문화를 정착시키는 길에 함께 동행하실 오산시민의 많은 관심과 참여를 부탁드립니다.
+                    <br />
+                    감사합니다. 오산르네상스
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
         <!--About-->
         <div class="row align-items-center wow fadeIn">
             <div class="col-md-6">
