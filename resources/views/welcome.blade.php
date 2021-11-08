@@ -26,6 +26,14 @@
     <link rel="stylesheet" type="text/css" href="rs-plugin/css/navigation.css">
     <!-- Style Sheet -->
     <link rel="stylesheet" href="css/style.css">
+    <style type="text/css">
+        .h6{
+            font-size: 1.5rem !important;
+        }
+        .h5{
+            font-size: 1.5rem !important;
+        }
+    </style>
 
 
 </head>
