@@ -895,7 +895,7 @@
 
 
 
-
+{{-- 
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
@@ -908,7 +908,7 @@
     </div>
   </div>
 
-</div>
+</div> --}}
 
 
 <!--page content-->
